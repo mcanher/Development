@@ -2,4 +2,4 @@ Archivo 3 de prueba
 
 ademas se agrega esta linea
 
-
+agregamos funcionalidad para filtrar cuentas contables en base a el EF de la plaza
